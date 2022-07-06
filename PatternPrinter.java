@@ -17,6 +17,5 @@ class PatternPrinter {
  		System.out.println();
  		n--;
  	}
-
  }
 }
